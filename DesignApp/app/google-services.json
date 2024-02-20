@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927068265026",
+    "project_id": "artistrydesign-56a98",
+    "storage_bucket": "artistrydesign-56a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927068265026:android:d9eeebdf98f79dd1802bdb",
+        "android_client_info": {
+          "package_name": "com.example.designapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTELcAxamDZ0HiA7W0u3LBbDWjKvAFxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
